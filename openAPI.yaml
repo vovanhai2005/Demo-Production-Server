@@ -6,7 +6,7 @@ info:
 servers:
   - url: http://127.0.0.1:5000
     description: Development server
-  - url: https://api.example.com
+  - url: https://demoproductionserver.vercel.app/
     description: Production server
   
 paths:
